@@ -1,1 +1,7 @@
-
+ Week 2
+heading: <h1>  </h1>
+paragraphs: <p>  </p>
+button: <button> </button>
+links: <a href="link"> </a>
+images: <img src="image" alt=" name of image " width="104" height="142">
+  src = where the pictur come from
